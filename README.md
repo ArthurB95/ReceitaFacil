@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='./.github/receitafacil.gif' width='500' height='400' />
+<img src='./.github/receitafacil.gif' width='348' height='772' />
 </div>
 
 <p align="center">
